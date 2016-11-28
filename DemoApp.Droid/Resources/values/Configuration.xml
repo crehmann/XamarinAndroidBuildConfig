@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+  <string name="ApiBaseUrl">https://prod.api-server.com/v1</string>
+</resources>
